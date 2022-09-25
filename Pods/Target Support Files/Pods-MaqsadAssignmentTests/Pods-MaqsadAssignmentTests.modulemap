@@ -1,0 +1,6 @@
+framework module Pods_MaqsadAssignmentTests {
+  umbrella header "Pods-MaqsadAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
